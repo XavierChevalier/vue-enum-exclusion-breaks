@@ -1,5 +1,5 @@
 export enum PositionList {
   First = 'FIRST',
   Second = 'SECOND',
-  Third = 'Third',
+  Third = 'THIRD',
 }
